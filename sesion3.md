@@ -217,7 +217,7 @@ Este sitio utiliza HTML5 y CSS para presentar información sobre etiquetas multi
             los que se construyeron en el Imperio romano. <a href="https://es.wikipedia.org/wiki/Coliseo"
                 target="_blank">Para más información</a>
         </p>
-        <img src="ColiseodeRoma.jpg" width="600" height="600">
+        <img src="https://firebasestorage.googleapis.com/v0/b/foto-de-git.appspot.com/o/ColiseodeRoma.jpg?alt=media&token=892f5c4e-a775-4802-901b-b32faae33571" width="600" height="600">
         <u>
             <h3>La fachada principal de Petra</h3>
         </u>
@@ -227,7 +227,7 @@ Este sitio utiliza HTML5 y CSS para presentar información sobre etiquetas multi
             Jordania, el mar Rojo, Damasco y el sur de Arabia fue el elemento vital del reino nabateo y trajo a Petra su
             fortuna.<a href="https://es.wikipedia.org/wiki/Tesoro_de_Petra" target="_blank">Para más información</a>
         </p>
-        <img src="FachadadePetra.jpg" width="600" height="600">
+        <img src="https://firebasestorage.googleapis.com/v0/b/foto-de-git.appspot.com/o/FachadadePetra.jpg?alt=media&token=12821e15-143b-4d4d-b5f4-accf050cbffb" width="600" height="600">
         <u>
             <h3>Parte de la Gran Muralla China</h3>
         </u>
@@ -236,7 +236,7 @@ Este sitio utiliza HTML5 y CSS para presentar información sobre etiquetas multi
             de los ataques de los nómadas xiongnu de Mongolia y Manchuria. <a
                 href="https://es.wikipedia.org/wiki/Gran_Muralla_China" target="_blank">Para más información</a>
         </p>
-        <img src="Lagranmurallachina.jpg" width="600" height="600">
+        <img src="https://firebasestorage.googleapis.com/v0/b/foto-de-git.appspot.com/o/Lagranmurallachina.jpg?alt=media&token=b965f798-fd91-4e0b-9176-27ccc5c81348" width="600" height="600">
     </section>
 
 
@@ -248,7 +248,7 @@ Este sitio utiliza HTML5 y CSS para presentar información sobre etiquetas multi
             Shah Jahan, llamada Arjumand Banu Begum, conocida como Mumtaz Mahal. <a
                 href="https://www.culturagenial.com/es/taj-mahal/" target="_blank">Para más información</a>
         </p>
-        <video src="tajmahal_-_23592 (360p).mp4" controls width="500"></video>
+        <video src="https://firebasestorage.googleapis.com/v0/b/foto-de-git.appspot.com/o/tajmahal_-_23592%20(360p).mp4?alt=media&token=66fb787f-3450-4bae-befb-745f6cf7fbaf" controls width="500"></video>
 
 
         <h3>Aurora Boreal</h3>
@@ -258,7 +258,7 @@ Este sitio utiliza HTML5 y CSS para presentar información sobre etiquetas multi
                 href="https://www.ngenespanol.com/naturaleza/que-son-las-auroras-boreales-y-por-que-se-forman/"
                 target="_blank">Para más información</a>
         </p>
-        <video src="aurora_borealis_-_90877 (540p).mp4" controls width="500"></video>
+        <video src="https://firebasestorage.googleapis.com/v0/b/foto-de-git.appspot.com/o/aurora_borealis_-_90877%20(540p).mp4?alt=media&token=c54858cc-e13c-4229-a5c7-5c" controls width="500"></video>
     </section>
 
     <section>
@@ -275,33 +275,29 @@ Este sitio utiliza HTML5 y CSS para presentar información sobre etiquetas multi
             <FONT COLOR="red">Arroyo</FONT></b>
         </h2>
         <p>Este sonido puede tener diferentes formas, todo va depender de la persona que lo escucha y que le
-            trasmite a
-            sus sentidos, que pueden provocar tranquilidad o nostalgia.</p>
-        <audio src="Arroyo.mp3" controls></audio>
+         trasmite a sus sentidos, que pueden provocar tranquilidad o nostalgia.</p>
+        <audio src="https://firebasestorage.googleapis.com/v0/b/foto-de-git.appspot.com/o/Arroyo.mp3?alt=media&token=b481efba-444e-4fab-ae98-450b1b3d979f" controls></audio>
 
         <h2><br>
             <FONT COLOR="red">Viento</FONT></b>
         </h2>
         <p>El sonido del viento se produce por algun obstaculo, ya que el aire se corta con rapidez y se divide
-            cuando
-            pasa por delante.</p>
-        <audio src="Viento.mp3" controls></audio>
+         cuando pasa por delante.</p>
+        <audio src="https://firebasestorage.googleapis.com/v0/b/foto-de-git.appspot.com/o/Viento.mp3?alt=media&token=96325323-e813-4afa-a9a6-06049b1d5e71" controls></audio>
 
         <h2><br>
             <FONT COLOR="red">Truenos</FONT></b>
         </h2>
-        <Truenos< /h2>
-            <p>El sonido de los truenos puede transmitir miedo, estar en alerta, pero para la naturaleza es una
-                sensación de
-                alegria.</p>
-            <audio src="Truenos.mp3" controls></audio>
+        <p>El sonido de los truenos puede transmitir miedo, estar en alerta, pero para la naturaleza es una
+         sensación de alegria.</p>
+            <audio src="https://firebasestorage.googleapis.com/v0/b/foto-de-git.appspot.com/o/Truenos.mp3?alt=media&token=8c86485c-bb86-44e8-a7f5-53592d5767fa" controls></audio>
 
-            <h2><br>
-                <FONT COLOR="red">Susurros en arbustos</FONT></b>
-            </h2>
-            <p>El ruido de los susurros puede ser un recurso de relajación y diferentes estados de animos o todo lo
-                contrario puede ser ruidoso o molesto.</p>
-            <audio src="Susurros.mp3" controls></audio>
+        <h2><br>
+            <FONT COLOR="red">Susurros en arbustos</FONT></b>
+        </h2>
+        <p>El ruido de los susurros puede ser un recurso de relajación y diferentes estados de animos o todo lo
+         contrario puede ser ruidoso o molesto.</p>
+            <audio src="https://firebasestorage.googleapis.com/v0/b/foto-de-git.appspot.com/o/Susurros.mp3?alt=media&token=7d0e840d-e74f-43cb-b68d-91f453934e8f" controls></audio>
 
 
     </section>
@@ -317,8 +313,7 @@ Este sitio utiliza HTML5 y CSS para presentar información sobre etiquetas multi
 
         <h3>Oceano Pacifico</h3>
         <p>Se presencia y se aprecia diferentes criaturas en el Oceano como lo son <strong><i> Cangrejos, Cachalotes,
-                    Camarones,
-                    Tiburones,Ballena jorobada. entre otros...</strong></i>
+         Camarones, Tiburones,Ballena jorobada. entre otros...</strong></i>
         </p>.</p>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/bB7GWtSQNaA" title="YouTube video player"
             frameborder="0"

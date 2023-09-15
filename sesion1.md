@@ -53,7 +53,7 @@ Algunos ejemplos de extensiones de archivo comunes son:
 
 # ¿Que es HTML?
 
-https://firebasestorage.googleapis.com/v0/b/foto-de-git.appspot.com/o/HTML00.jpg?alt=media&token=074b21c0-d83e-4a1e-88de-3579e7d8bc33
+<img src= "https://firebasestorage.googleapis.com/v0/b/foto-de-git.appspot.com/o/HTML00.jpg?alt=media&token=074b21c0-d83e-4a1e-88de-3579e7d8bc33">
 
 HTML (Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup Language) es el componente más básico de la Web. Define el significado y la estructura del contenido web.
 
@@ -61,7 +61,7 @@ HTML (Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup Language) e
 
 Son códigos utilizados para "marcar" el texto de una página web, con el fin de dar instrucciones al navegador sobre cómo mostrarlo.
 
-https://firebasestorage.googleapis.com/v0/b/foto-de-git.appspot.com/o/etiquetas-html-800x560.jpg?alt=media&token=446bfc2b-83b2-4a13-a080-9f2473648198
+<img src= "https://firebasestorage.googleapis.com/v0/b/foto-de-git.appspot.com/o/etiquetas-html-800x560.jpg?alt=media&token=446bfc2b-83b2-4a13-a080-9f2473648198">
 
 
 
