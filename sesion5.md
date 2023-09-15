@@ -14,6 +14,7 @@ Aplicar los conocimientos sobre los tipos de etiquetas HTML para diseñar un for
 ### Instrucciones:
 
 1.Crear un nuevo documento HTML.
+
 2.Crear un formulario con los siguientes campos:
 - Nombre del producto
 - Cantidad
@@ -21,10 +22,12 @@ Aplicar los conocimientos sobre los tipos de etiquetas HTML para diseñar un for
 - Precio total
 - Dirección de envío
 - Información de contacto (nombre, correo electrónico, número de teléfono)
+
 3.Agregar los siguientes campos relacionados al formulario:
 - Método de pago
 - Fecha de entrega
 - Comentarios
+
 4.Utilizar las etiquetas HTML apropiados para cada campo.
 
 # Solución:
