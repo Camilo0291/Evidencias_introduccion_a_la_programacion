@@ -18,9 +18,7 @@ Requerimientos del proyecto:
 
 ## Solución:
 
-Este es el link del repositorio
-
-[https://camilo0291.github.io/Proyecto-web-git-y-Github/]{https://camilo0291.github.io/Proyecto-web-git-y-Github/}
+[Este es el link del repositorio]{https://camilo0291.github.io/Proyecto-web-git-y-Github/}
 
 
 
