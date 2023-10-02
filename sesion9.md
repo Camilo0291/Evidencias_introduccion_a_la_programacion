@@ -6,7 +6,49 @@
 
 <!-- Su documentación aquí -->
 
+# Actividad: Propiedades de espaciado y unidades de medida
+Objetivo:
 
+Practicar el uso de las propiedades de espaciado margin, padding, border y border-radius, con diferentes unidades de medida.
+
+Codigo HTML
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Propiedades de espaciado</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="contendor">
+        <div class="elemento"></div>
+    </div>
+</body>
+</html>
+```
+Codigo CSS
+
+```css
+.contenedor {
+  width: 200px;
+  height: 200px;
+}
+
+.elemento {
+  border-radius: 10px;
+  border: 5px solid red;
+  padding: 20px;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  width: 100px;
+  height: 100px;
+}
+```
 # Preguntas:
 
 - ¿Qué es la propiedad margin?
